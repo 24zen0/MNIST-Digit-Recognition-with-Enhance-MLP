@@ -15,20 +15,6 @@ A PyTorch implementation of a multi-layer perceptron (MLP) for recognizing handw
 - **Data Augmentation**:
   - Random affine transformations (rotation ±5°, translation ±5%)
   - Separate transforms for training and testing
-- **Reproducibility**:
-  - Full seed control for random number generators
-  - Deterministic CUDA operations
 
-## Requirements
+The highest success rate should arrive at around 99.4%
 
-- Python 3.6+
-- PyTorch 1.8+
-- torchvision
-- numpy
-
-## Installation
-
-```bash
-git clone https://github.com/yourusername/MNIST_number_recognition_project.git
-cd MNIST_number_recognition_project
-pip install -r requirements.txt
