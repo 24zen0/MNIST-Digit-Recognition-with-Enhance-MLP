@@ -16,5 +16,7 @@ A PyTorch implementation of a multi-layer perceptron (MLP) for recognizing handw
   - Random affine transformations (rotation ±5°, translation ±5%)
   - Separate transforms for training and testing
 
-The highest success rate should arrive at around 99.4%
+##The highest success rate should arrive at around 99.4%:
+![image](https://github.com/user-attachments/assets/276f81bb-11f2-4c7e-8d16-ccf331e47f90)
+
 
